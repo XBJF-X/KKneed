@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="PYTHON_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/.venv" />
+      <excludeFolder url="file://$MODULE_DIR$/Log" />
+      <excludeFolder url="file://$MODULE_DIR$/Log/10276" />
+      <excludeFolder url="file://$MODULE_DIR$/Log/10380" />
+      <excludeFolder url="file://$MODULE_DIR$/Log/12076" />
+      <excludeFolder url="file://$MODULE_DIR$/Log/12088" />
+      <excludeFolder url="file://$MODULE_DIR$/Log/12564" />
+      <excludeFolder url="file://$MODULE_DIR$/Log/12844" />
+      <excludeFolder url="file://$MODULE_DIR$/Log/14440" />
+      <excludeFolder url="file://$MODULE_DIR$/Log/14568" />
+      <excludeFolder url="file://$MODULE_DIR$/Log/14872" />
+      <excludeFolder url="file://$MODULE_DIR$/Log/1584" />
+      <excludeFolder url="file://$MODULE_DIR$/Log/16396" />
+      <excludeFolder url="file://$MODULE_DIR$/Log/16772" />
+      <excludeFolder url="file://$MODULE_DIR$/Log/19068" />
+      <excludeFolder url="file://$MODULE_DIR$/Log/19548" />
+      <excludeFolder url="file://$MODULE_DIR$/Log/19568" />
+      <excludeFolder url="file://$MODULE_DIR$/Log/20636" />
+      <excludeFolder url="file://$MODULE_DIR$/Log/20740" />
+      <excludeFolder url="file://$MODULE_DIR$/Log/20748" />
+      <excludeFolder url="file://$MODULE_DIR$/Log/20812" />
+      <excludeFolder url="file://$MODULE_DIR$/Log/20924" />
+      <excludeFolder url="file://$MODULE_DIR$/Log/21496" />
+      <excludeFolder url="file://$MODULE_DIR$/Log/21812" />
+      <excludeFolder url="file://$MODULE_DIR$/Log/23888" />
+      <excludeFolder url="file://$MODULE_DIR$/Log/28372" />
+      <excludeFolder url="file://$MODULE_DIR$/Log/2888" />
+      <excludeFolder url="file://$MODULE_DIR$/Log/29044" />
+      <excludeFolder url="file://$MODULE_DIR$/Log/30260" />
+      <excludeFolder url="file://$MODULE_DIR$/Log/31876" />
+      <excludeFolder url="file://$MODULE_DIR$/Log/324" />
+      <excludeFolder url="file://$MODULE_DIR$/Log/32808" />
+      <excludeFolder url="file://$MODULE_DIR$/Log/33512" />
+      <excludeFolder url="file://$MODULE_DIR$/Log/36396" />
+      <excludeFolder url="file://$MODULE_DIR$/Log/4668" />
+      <excludeFolder url="file://$MODULE_DIR$/Log/4896" />
+      <excludeFolder url="file://$MODULE_DIR$/Log/4904" />
+      <excludeFolder url="file://$MODULE_DIR$/Log/5572" />
+      <excludeFolder url="file://$MODULE_DIR$/Log/572" />
+      <excludeFolder url="file://$MODULE_DIR$/Log/5836" />
+      <excludeFolder url="file://$MODULE_DIR$/Log/608" />
+      <excludeFolder url="file://$MODULE_DIR$/Log/6092" />
+      <excludeFolder url="file://$MODULE_DIR$/Log/6808" />
+      <excludeFolder url="file://$MODULE_DIR$/Log/8208" />
+      <excludeFolder url="file://$MODULE_DIR$/Log/840" />
+      <excludeFolder url="file://$MODULE_DIR$/Log/8428" />
+      <excludeFolder url="file://$MODULE_DIR$/Log/9444" />
+      <excludeFolder url="file://$MODULE_DIR$/bin" />
+    </content>
+    <orderEntry type="jdk" jdkName="Python 3.7 (基于解析HTML文件下载合并流式传输视频（过滤广告）)" jdkType="Python SDK" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
